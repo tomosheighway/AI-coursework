@@ -3,12 +3,18 @@ Coursework from artificial intelligence unit studied in final year of computer s
 
 The assignment was to use MATLAB to create a series of outputs from a dataset. These were directly compared with ones given in the brief and expected to match. For this assignment I was granted a first-class mark of 80% 
 
+
 It is split into 5 sections:
+
 	1. Dataset preparation 
-  2. Feature space visualisation 
-  3. Abstraction visualisations 
-  4. Classifier re-implementations 
-  5. Extension to ensembles 
+	
+  	2. Feature space visualisation 
+	
+ 	3. Abstraction visualisations 
+	
+  	4. Classifier re-implementations 
+	
+  	5. Extension to ensembles 
 
 
 Output for section 2:
